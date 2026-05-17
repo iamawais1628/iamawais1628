@@ -54,9 +54,9 @@ Mission:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamawais1628&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamawais1628&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF"/>
 
 </div>
 
@@ -66,7 +66,7 @@ Mission:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C2FF&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF"/>
+<img src="https://streak-stats.demolab.com?user=iamawais1628&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C2FF&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF"/>
 
 </div>
 
@@ -76,7 +76,7 @@ Mission:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=iamawais1628&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -86,7 +86,7 @@ Mission:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamawais1628&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF"/>
 
 </div>
 
@@ -150,11 +150,11 @@ Mission:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00C2FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=iamawais1628&label=Profile+Views&color=00C2FF&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=00C2FF"/>
+<img src="https://img.shields.io/github/followers/iamawais1628?style=for-the-badge&color=00C2FF"/>
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=00C2FF"/>
+<img src="https://img.shields.io/github/stars/iamawais1628?style=for-the-badge&color=00C2FF"/>
 
 </div>
 
