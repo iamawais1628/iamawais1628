@@ -1,12 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00C2FF&height=260&section=header&text=Awais%20Tahir&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Finance%20Professional%20|%20Data%20Analyst%20|%20Fintech%20Founder&descAlignY=56&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00C2FF&height=280&section=header&text=Awais%20Tahir&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Finance%20Professional%20|%20Data%20Analyst%20|%20Fintech%20Founder&descAlignY=58&descSize=20"/>
 
 # 🚀 Awais Tahir
 
-### Finance Professional • Data Analyst • Fintech Founder
+### Finance Professional • Data Analyst • Fintech Founder • AI Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Founder+of+Axiom+Fintech+Solutions;Finance+%26+Business+Analytics+Expert;Building+AI+Powered+Finance+Systems;Power+BI+%7C+Excel+%7C+Python+Analytics;Creating+Scalable+Fintech+Solutions"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Founder+of+Axiom+Fintech+Solutions;Finance+%26+Business+Analytics+Expert;Building+AI+Powered+Finance+Systems;Excel+%7C+Power+BI+%7C+Python+Analytics;Creating+Scalable+Fintech+Products;Business+Automation+%7C+AI+Systems"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Finance-00C2FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Fintech-00C2FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge"/>
 
 </div>
 
@@ -14,26 +24,30 @@
 
 # 💫 About Me
 
-| 💼 Profile | 🚀 Visuals |
-|---|---|
-| ```yaml
+<table>
+<tr>
+<td width="58%">
+
+```yaml
 Name: Awais Tahir
 
-Role:
+Roles:
   - Finance Professional
   - Data Analyst
   - Fintech Founder
+  - AI Builder
 
 Company:
   - Axiom Fintech Solutions
 
 Core Expertise:
   - Financial Reporting
+  - Financial Modeling
   - Data Analytics
   - Business Intelligence
-  - Fintech Systems
   - AI Automation
-  - Financial Modeling
+  - Fintech Systems
+  - Business Process Automation
 
 Tools & Platforms:
   - Microsoft Excel
@@ -41,17 +55,37 @@ Tools & Platforms:
   - Power BI
   - SQL Databases
   - Python Analytics
+  - Pandas & NumPy
 
 Currently Learning:
   - AI in Finance
   - Advanced Data Engineering
+  - AI Agents & Automation
   - Fintech SaaS Systems
-  - AI Automation Workflows
 
 Mission:
   Building intelligent financial systems
-  powered by Data & AI 🚀
-``` | <img width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/> <br><br> <img width="320" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/> <br><br> <img width="320" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/> |
+  powered by Data, Automation & AI 🚀
+```
+
+</td>
+
+<td width="42%">
+
+<img width="100%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+<br><br>
+
+<img width="100%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+
+<br><br>
+
+<img width="100%" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -59,25 +93,43 @@ Mission:
 
 <div align="center">
 
+## 📈 Analytics & Reporting
+
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
 
+<img src="https://img.shields.io/badge/Financial%20Modeling-00C2FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Business%20Intelligence-0D1117?style=for-the-badge"/>
+
+<br><br>
+
+## 🗄️ Databases & Querying
+
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Python%20Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Warehousing-00C2FF?style=for-the-badge"/>
+
+<br><br>
+
+## 🐍 Python Data Analytics
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Financial%20Modeling-00C2FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Business%20Intelligence-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-00C2FF?style=for-the-badge"/>
 
 </div>
 
@@ -87,9 +139,9 @@ Mission:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamawais1628&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&count_private=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=iamawais1628&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamawais1628&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamawais1628&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF"/>
 
 </div>
 
@@ -105,7 +157,7 @@ Mission:
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -115,34 +167,37 @@ Mission:
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Current Focus Areas
 
 <div align="center">
 
-| 🚀 Area | 📄 Description |
+| 🚀 Domain | 📄 Focus |
 |---|---|
-| 🤖 AI Finance Systems | AI-powered financial automation |
-| 📊 Business Intelligence | Interactive Power BI dashboards |
-| 💹 Financial Analytics | Data-driven financial reporting |
-| ☁️ Fintech Solutions | Scalable finance technology systems |
-| 📈 Data Automation | Automated workflows & analytics |
+| 🤖 AI Finance Systems | AI-powered financial automation & assistants |
+| 📊 Business Intelligence | Interactive Power BI dashboards & KPI systems |
+| 💹 Financial Analytics | Data-driven finance reporting & insights |
+| ☁️ Fintech Infrastructure | Scalable finance technology solutions |
+| 📈 Data Automation | Automated analytics & reporting workflows |
+| 🧠 AI Business Systems | Intelligent automation & AI integrations |
 
 </div>
 
 ---
 
-# 🧠 Data Analytics Expertise
+# 🧠 Professional Expertise
 
 ```text
 ✔ Financial Reporting & Analysis
-✔ Power BI Dashboards
-✔ Excel Automation
+✔ Financial Modeling & Forecasting
+✔ Power BI Dashboards & KPI Tracking
+✔ Excel Automation & Advanced Formulas
 ✔ Google Sheets Automation
-✔ SQL Data Analysis
+✔ SQL Data Analysis & Querying
 ✔ Python Data Analytics
 ✔ AI-Powered Financial Systems
 ✔ Business Intelligence Solutions
 ✔ Fintech Product Development
+✔ Data Visualization & Reporting
 ✔ Business Process Automation
 ```
 
@@ -162,7 +217,7 @@ Mission:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/iamawais1628">
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -192,7 +247,7 @@ Mission:
 
 <div align="center">
 
-### ✨ “Transforming Finance with Data, Automation & Artificial Intelligence.”
+### ✨ “Transforming Finance through Data, Automation & Artificial Intelligence.”
 
 </div>
 
@@ -216,6 +271,6 @@ Mission:
 
 ## 🚀 Thanks For Visiting My Profile
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0f172a&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0f172a&height=130&section=footer"/>
 
 </div>
