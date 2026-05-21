@@ -51,12 +51,11 @@ Mission:
 ---
 
 # 📊 GitHub Analytics
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamawais1628&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamawais1628&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&count_private=true&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamawais1628&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamawais1628&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&cache_seconds=1800"/>
 
 </div>
 
