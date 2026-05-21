@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00C2FF&height=260&section=header&text=Awais%20Tahir&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Finance%20Professional%20|%20Data%20Analyst%20|%20Tech%20Entrepreneur&descAlignY=56&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00C2FF&height=260&section=header&text=Awais%20Tahir&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Finance%20Professional%20|%20Data%20Analyst%20|%20Fintech%20Founder&descAlignY=56&descSize=18"/>
 
 # 🚀 Awais Tahir
 
-### Finance Professional • Data Analyst • AI Builder • Tech Entrepreneur
+### Finance Professional • Data Analyst • Fintech Founder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Founder+of+Axiom+Fintech+Solutions;Building+AI+Powered+Business+Systems;Finance+%26+Data+Analytics+Expert;Creating+Scalable+Digital+Products;AI+Automation+%7C+Fintech+%7C+SaaS"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Founder+of+Axiom+Fintech+Solutions;Finance+%26+Business+Analytics+Expert;Building+AI+Powered+Finance+Systems;Power+BI+%7C+Excel+%7C+Python+Analytics;Creating+Scalable+Fintech+Solutions"/>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 # 💫 About Me
 
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Analytics" width="340" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 ```yaml
 Name: Awais Tahir
@@ -22,38 +22,60 @@ Name: Awais Tahir
 Role:
   - Finance Professional
   - Data Analyst
-  - AI Builder
-  - Entrepreneur
+  - Fintech Founder
 
 Company:
   - Axiom Fintech Solutions
 
 Core Expertise:
-  - Financial Systems
-  - Artificial Intelligence
+  - Financial Reporting
   - Data Analytics
-  - Business Automation
-  - SaaS Infrastructure
-  - Cloud Technologies
+  - Business Intelligence
+  - Fintech Systems
+  - AI Automation
+  - Financial Modeling
+
+Tools & Platforms:
+  - Microsoft Excel
+  - Google Sheets
+  - Power BI
+  - SQL Databases
+  - Python Analytics
 
 Currently Learning:
-  - Advanced AI Architectures
-  - AI Agents & Automation
-  - Scalable SaaS Systems
-  - Enterprise AI Workflows
+  - AI in Finance
+  - Advanced Data Engineering
+  - Fintech SaaS Systems
+  - AI Automation Workflows
 
 Mission:
-  Building intelligent systems where
-  Finance meets Artificial Intelligence 🚀
+  Building intelligent financial systems
+  powered by Data & AI 🚀
 ```
 
 ---
 
-# ⚡ Tech Arsenal
+# 📊 Analytics & Finance Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,nextjs,firebase,mysql,postgresql,mongodb,git,github,vscode,linux,figma,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,vscode,github&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python%20Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 </div>
 
@@ -81,16 +103,6 @@ Mission:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iamawais1628&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
@@ -101,31 +113,34 @@ Mission:
 
 ---
 
-# 🚀 Current Projects
+# 🚀 Current Focus
 
 <div align="center">
 
-| 🚀 Project | 📄 Description |
+| 🚀 Area | 📄 Description |
 |---|---|
-| 🤖 AI Finance Assistant | AI-powered finance ecosystem |
-| 📈 Fintech Analytics Platform | Smart business intelligence dashboards |
-| 💳 Automation Systems | AI workflow & business automation |
-| 🧠 AI Content Engine | Intelligent content generation |
-| ☁️ SaaS Infrastructure | Scalable cloud-native systems |
+| 🤖 AI Finance Systems | AI-powered financial automation |
+| 📊 Business Intelligence | Interactive Power BI dashboards |
+| 💹 Financial Analytics | Data-driven financial reporting |
+| ☁️ Fintech Solutions | Scalable finance technology systems |
+| 📈 Data Automation | Automated workflows & analytics |
 
 </div>
 
 ---
 
-# 🧠 Current Focus
+# 🧠 Data Analytics Expertise
 
 ```text
+✔ Financial Reporting & Analysis
+✔ Power BI Dashboards
+✔ Excel Automation
+✔ Google Sheets Automation
+✔ SQL Data Analysis
+✔ Python Data Analytics
 ✔ AI-Powered Financial Systems
-✔ Fintech SaaS Products
-✔ Intelligent Automation
-✔ Business Intelligence Dashboards
-✔ AI Agents & Workflows
-✔ Scalable Cloud Applications
+✔ Business Intelligence Solutions
+✔ Fintech Product Development
 ```
 
 ---
@@ -160,26 +175,11 @@ Mission:
 
 ---
 
-# 📌 Featured Tools & Technologies
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI-00C2FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Fintech-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SaaS-00C2FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-00C2FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud%20Systems-0D1117?style=for-the-badge"/>
-
-</div>
-
----
-
 # 💡 Quote
 
 <div align="center">
 
-### ✨ “Building intelligent systems for the future of Finance & Technology.”
+### ✨ “Transforming Finance with Data, Automation & Artificial Intelligence.”
 
 </div>
 
