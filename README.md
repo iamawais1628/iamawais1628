@@ -6,7 +6,7 @@
 
 ### Finance Professional • Data Analyst • Fintech Founder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Founder+of+Axiom+Fintech+Solutions;Finance+%26+Business+Analytics+Expert;Building+AI+Powered+Finance+Systems;Power+BI+%7C+Excel+%7C+Python+Analytics;Creating+Scalable+Fintech+Solutions"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Founder+of+Axiom+Fintech+Solutions;Finance+%26+Business+Analytics+Expert;Building+AI+Powered+Finance+Systems;Power+BI+%7C+Excel+%7C+Python+Analytics;Creating+Scalable+Fintech+Solutions"/>
 
 </div>
 
@@ -14,9 +14,9 @@
 
 # 💫 About Me
 
-<img align="right" alt="Analytics" width="340" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-```yaml
+| 💼 Profile | 🚀 Visuals |
+|---|---|
+| ```yaml
 Name: Awais Tahir
 
 Role:
@@ -51,17 +51,13 @@ Currently Learning:
 Mission:
   Building intelligent financial systems
   powered by Data & AI 🚀
-```
+``` | <img width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/> <br><br> <img width="320" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/> <br><br> <img width="320" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/> |
 
 ---
 
 # 📊 Analytics & Finance Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,vscode,github&theme=dark"/>
-
-<br><br>
 
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
@@ -76,6 +72,12 @@ Mission:
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Financial%20Modeling-00C2FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Business%20Intelligence-0D1117?style=for-the-badge"/>
 
 </div>
 
@@ -141,7 +143,18 @@ Mission:
 ✔ AI-Powered Financial Systems
 ✔ Business Intelligence Solutions
 ✔ Fintech Product Development
+✔ Business Process Automation
 ```
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=iamawais1628&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
 
 ---
 
@@ -149,7 +162,7 @@ Mission:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/iamawais1628">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
