@@ -35,14 +35,14 @@ Roles:
   - Finance Professional
   - Data Analyst
   - Fintech Founder
-  - AI Builder
+  - Tech Enterpreneur
 
 Company:
   - Axiom Fintech Solutions
 
 Core Expertise:
+  - Bookkeeping & Accounting
   - Financial Reporting
-  - Financial Modeling
   - Data Analytics
   - Business Intelligence
   - AI Automation
@@ -59,7 +59,7 @@ Tools & Platforms:
 
 Currently Learning:
   - AI in Finance
-  - Advanced Data Engineering
+  - Advanced Data Analytics
   - AI Agents & Automation
   - Fintech SaaS Systems
 
@@ -135,17 +135,6 @@ Mission:
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=iamawais1628&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&count_private=true"/>
-
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamawais1628&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
@@ -187,8 +176,8 @@ Mission:
 # 🧠 Professional Expertise
 
 ```text
-✔ Financial Reporting & Analysis
-✔ Financial Modeling & Forecasting
+✔ Bookkeeping & Accounting
+✔ Financial Accounting & Reporting
 ✔ Power BI Dashboards & KPI Tracking
 ✔ Excel Automation & Advanced Formulas
 ✔ Google Sheets Automation
@@ -217,7 +206,7 @@ Mission:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/iamawais1628">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
