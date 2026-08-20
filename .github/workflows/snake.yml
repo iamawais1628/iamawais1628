@@ -17,7 +17,7 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: iamawais1628
+          github_user_name: iamawaisea1628
           outputs: dist/github-contribution-grid-snake-dark.svg
 
       - name: Push snake animation
