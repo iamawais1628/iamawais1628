@@ -140,7 +140,7 @@ Mission:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=iamawais1628&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C2FF&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF"/>
+<img src="https://streak-stats.demolab.com?user=iamawaisea1628&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C2FF&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF"/>
 
 </div>
 
@@ -150,7 +150,7 @@ Mission:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamawais1628&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamawaisea1628&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF"/>
 
 </div>
 
@@ -206,7 +206,7 @@ Mission:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=iamawais1628&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=iamawaisea1628&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -236,7 +236,7 @@ Mission:
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/iamawais1628/iamawais1628/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/iamawaisea1628/iamawaisea2628/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -256,11 +256,11 @@ Mission:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=iamawais1628&label=Profile+Views&color=00C2FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=iamawaisea1628&label=Profile+Views&color=00C2FF&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/iamawais1628?style=for-the-badge&color=00C2FF"/>
+<img src="https://img.shields.io/github/followers/iamawaisea1628?style=for-the-badge&color=00C2FF"/>
 
-<img src="https://img.shields.io/github/stars/iamawais1628?style=for-the-badge&color=00C2FF"/>
+<img src="https://img.shields.io/github/stars/iamawaisea1628?style=for-the-badge&color=00C2FF"/>
 
 </div>
 
